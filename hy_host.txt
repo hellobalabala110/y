@@ -1,1 +1,1 @@
-{"host":"x.hyys.me\/api.php"}
+{"host":["http://x.hyys.me/api.php"]}
