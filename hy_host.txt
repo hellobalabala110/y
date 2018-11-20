@@ -1,1 +1,1 @@
-{"host":["http://x.hyys.me/api.php"]}
+{"host":["http://xdd1.hyys.me","http://xdadf.hyys.me","http://x.hyys.me"]}
