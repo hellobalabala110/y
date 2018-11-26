@@ -1,1 +1,1 @@
-api.tiansexyl.c
+api.tiansexyl.com
