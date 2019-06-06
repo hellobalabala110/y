@@ -1,1 +1,1 @@
-http://lu.hitik.org:8080
+http://backup.lulusir.net
