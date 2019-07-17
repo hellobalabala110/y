@@ -1,1 +1,1 @@
-http://aff.eloeee.com/conf/elo.mobileconfig
+http://share.eloccc.com:10097//conf/elo.mobileconfig
