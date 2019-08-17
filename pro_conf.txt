@@ -1,1 +1,1 @@
-http://pro.lusir001.com:2052/conf/pro.mobileconfig
+http://pro.lusir001.com:2052/conf/hailang.mobileconfig
