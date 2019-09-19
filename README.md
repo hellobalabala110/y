@@ -1,1 +1,1 @@
->请求地址：http://pay.hyys.info/v1/exchanges
+>请求地址：https://vip.lusir029.com
