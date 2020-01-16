@@ -1,1 +1,1 @@
-https://tbure.yesebo.net/api.php
+http://bakup.tbrapi.info:8080/api.php
