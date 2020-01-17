@@ -1,0 +1,1 @@
+http://bakup.hitikapi.info:2052/api.php
