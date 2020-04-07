@@ -1,1 +1,1 @@
-https://hltest.yesebo.net
+https://tfly.yesebo.net/api.php
