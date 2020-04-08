@@ -1,1 +1,1 @@
-http://aff.eeelusir.com/conf/lusir.mobileconfig
+https://invited.lusir030.com/conf/lusir.mobileconfig
