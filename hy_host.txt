@@ -1,1 +1,1 @@
-{"host":["http://xdd1.hyys.me","http://xdadf.hyys.me","http://x.hyys.me"]}
+http://a.91tvapi.org
